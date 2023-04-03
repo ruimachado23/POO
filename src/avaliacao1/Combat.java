@@ -1,4 +1,4 @@
-package avaliacao;
+package avaliacao1;
 import java.util.Random;
 import java.util.Scanner;
 

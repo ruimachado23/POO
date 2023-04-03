@@ -1,4 +1,4 @@
-package avaliacao;
+package avaliacao1;
 
 abstract class Fighter {
     private String name;
